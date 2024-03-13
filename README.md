@@ -13,7 +13,7 @@ Course Content:-
 
 4- Printing Pattern(Easy to advance pattern) 
 
-5- FUnctions
+5- Functions
 
 6- Pointer 
 
